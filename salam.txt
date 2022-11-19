@@ -1,0 +1,2 @@
+Salam.
+This is a Git test.
